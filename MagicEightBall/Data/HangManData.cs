@@ -9,7 +9,7 @@ namespace MagicEightBall.Data
 {
     public class HangManData
     {
-        public static List<string> answers = new List<string> { "banana", "apple" };
+        public static List<string> answers = new List<string> { "banana", "apple", "peach", "grape", "canteloupe", "watermelon", "jackfruit", "honeydew", "nectarine", "mango", "orange" };
         //"peach", "grape", "canteloupe", "watermelon", "jackfruit", "honeydew", "nectarine", "mango", "orange"
         public static List<char> emptySpaces = new List<char> { };
         public static List<Hangman> ourHangman = new List<Hangman> { };

@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{29106CEC-24AF-47BF-BAD8-A77DDF42F17D}|Default">
+  <MonoDevelop.Ide.ItemProperties.MagicEightBall PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MagicEightBall/Data/HangManData.cs">
+    <Files>
+      <File FileName="MagicEightBall/Controllers/TwentyQuestionsController.cs" Line="1" Column="1" />
+      <File FileName="MagicEightBall/Models/TreeNode.cs" Line="1" Column="1" />
+      <File FileName="MagicEightBall/Models/Tree.cs" />
+      <File FileName="MagicEightBall/Views/Hangman/Hangman.cshtml" Line="1" Column="1" />
+      <File FileName="MagicEightBall/Data/HangManData.cs" Line="13" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MagicEightBall" expanded="True">
+            <Node name="MagicEightBall" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="HangManData.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Hangman" expanded="True" />
+                <Node name="NumGuesser" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 &amp; 10/Random practice/Challenges/MagicEightBall/MagicEightBall/Controllers/HangmanController.cs" relfile="MagicEightBall/Controllers/HangmanController.cs" line="15" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
