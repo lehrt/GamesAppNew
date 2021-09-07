@@ -1,0 +1,23 @@
+﻿@model int
+    <link rel="stylesheet" href="~/css/NumGuesser.css" />
+    <div class="guess-block">
+        <form action="/NumGuesser/GuessNumber" method="post">
+            <input type="submit" value="&#8593;" />
+            <input type="hidden" name="feedback" value="up" />
+            <input type="hidden" name="guess" value="@Model" />
+        </form>
+
+        @Model
+
+        <form action="/NumGuesser/GuessNumber" method="post">
+            <input type="submit" value="&#8595;" />
+            <input type="hidden" name="feedback" value="down" />
+            <input type="hidden" name="guess" value="@Model" />
+        </form>
+
+        <form action="/NumGuesser/WinSummary">
+            <br />
+            <input type="submit" value="Did I guess your number?" />
+            <input type="hidden" name="guess" value="@Model" />
+        </form>
+    </div>

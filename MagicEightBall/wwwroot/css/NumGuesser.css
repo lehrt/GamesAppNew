@@ -1,0 +1,57 @@
+﻿body {
+}
+.guess-block {
+    text-align:center;
+}
+
+/*.positionCameras ul, .positionCameras li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;*/ /* added */
+/*}
+
+    .positionCameras li.cameraLeft,
+    .positionCameras li.cameraIcon,
+    .positionCameras li.cameraRight {
+        position: relative;*/ /* added */
+        /*width: 25px;
+        height: 25px;
+        cursor: pointer;
+        background: #cccccc;
+        margin: 5px;
+        border-radius: 5px;
+        border: 1px solid #aaaaaa;
+        box-shadow: 1px 2px 15px #cccccc;
+    }
+
+    .positionCameras li.cameraIcon {
+        cursor: default;
+    }
+
+    .positionCameras li.cameraLeft:before,
+    .positionCameras li.cameraRight:before {
+        content: "";*/
+        /* added for positioning magic */
+        /*position: absolute;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);*/
+        /* end added */
+
+        /*width: 0;
+        height: 0;
+        border-style: solid;
+    }
+
+    .positionCameras li.cameraLeft:before {
+        border-width: 0 5px 10px 5px;
+        border-color: transparent transparent #007bff transparent;
+    }
+
+    .positionCameras li.cameraRight:before {
+        border-width: 10px 5px 0 5px;
+        border-color: #007bff transparent transparent transparent;
+    }*/

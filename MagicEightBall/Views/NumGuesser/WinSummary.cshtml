@@ -1,0 +1,18 @@
+﻿@model Guess;
+
+Your number was @Model.UserGuess!
+
+I was able to guess your number in @Model.TotalGuesses guesses.
+
+<form action="/NumGuesser/FirstGuess" method="post">
+    <br />
+    <input type="submit" value="Play again" />
+    <label style="color:black"> Play again with default values
+    </label>
+</form>
+<form action="/NumGuesser/CustomNumbers" method="post">
+    <br />
+    <input type="submit" value="Custom numbers" />
+    <label style="color:black"> Play again with custom numbers
+    </label>
+</form>

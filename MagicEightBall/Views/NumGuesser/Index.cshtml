@@ -1,0 +1,25 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<link rel="stylesheet" href="~/css/NumGuesser.css" />
+<div class="guess-block">
+    <h1>Guess a random number!</h1>
+    <form action="/NumGuesser/FirstGuess" method="post">
+        <label style="color:black">
+            Think of any number between 1 and 1000 and then press the 'Lets Play!' button to start.
+        </label>
+        <br />
+        <input type="submit" value="Ready? Let's play!" />
+    </form>
+
+    <form action="/NumGuesser/CustomNumbers" method="post">
+        <label style="color:black">
+            Want to play with your own custom numbers?
+        </label>
+        <br />
+        <input type="submit" value="Click here!" />
+    </form>
+</div>

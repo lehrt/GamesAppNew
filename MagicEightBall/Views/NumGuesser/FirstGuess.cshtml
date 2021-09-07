@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    
+}
+
+@model int;
+    <link rel="stylesheet" href="~/css/NumGuesser.css" />
+<div class="guess-block">
+        <p>Is this your number?</p>
+    <form action="/NumGuesser/GuessNumber" method="post">
+        <input type="submit" value="&#8593;" />
+        <input type="hidden" name="feedback" value="up" />
+        <input type="hidden" name="guess" value="@Model" />
+    </form>
+
+        @Model
+
+    <form action="/NumGuesser/GuessNumber" method="post">
+        <input type="submit" value="&#8595;" />
+        <input type="hidden" name="feedback" value="down" />
+        <input type="hidden" name="guess" value="@Model" />
+    </form>
+
+    <form action="/NumGuesser/WinSummary">
+        <br />
+        <input type="submit" value="Did I guess your number?" />
+        <input type="hidden" name="guess" value="@Model" />
+    </form>
+</div>

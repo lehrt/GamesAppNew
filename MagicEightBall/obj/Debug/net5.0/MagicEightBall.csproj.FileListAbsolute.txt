@@ -1,0 +1,101 @@
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/appsettings.Development.json
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/appsettings.json
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/mono_crash.11a67480d0.0.json
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/MagicEightBall.deps.json
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/MagicEightBall.runtimeconfig.json
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/MagicEightBall.runtimeconfig.dev.json
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/MagicEightBall.dll
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/ref/MagicEightBall.dll
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/MagicEightBall.pdb
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/MagicEightBall.Views.dll
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/MagicEightBall.Views.pdb
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.csproj.AssemblyReference.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.GeneratedMSBuildEditorConfig.editorconfig
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.AssemblyInfoInputs.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.AssemblyInfo.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.csproj.CoreCompileInputs.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.MvcApplicationPartsAssemblyInfo.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.RazorAssemblyInfo.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.RazorAssemblyInfo.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/staticwebassets/MagicEightBall.StaticWebAssets.Manifest.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/staticwebassets/MagicEightBall.StaticWebAssets.xml
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/scopedcss/bundle/MagicEightBall.styles.css
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.TagHelpers.input.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.TagHelpers.output.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.RazorCoreGenerate.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.RazorTargetAssemblyInfo.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.RazorTargetAssemblyInfo.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.Views.pdb
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.dll
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/ref/MagicEightBall.dll
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.pdb
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.genruntimeconfig.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.csproj.CopyComplete
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/MagicEightBall/Index.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/MagicEightBall/ShakeBall.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/appsettings.Development.json
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/appsettings.json
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/mono_crash.11a67480d0.0.json
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/MagicEightBall.deps.json
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/MagicEightBall.runtimeconfig.json
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/MagicEightBall.runtimeconfig.dev.json
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/MagicEightBall.dll
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/ref/MagicEightBall.dll
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/MagicEightBall.pdb
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/MagicEightBall.Views.dll
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/bin/Debug/net5.0/MagicEightBall.Views.pdb
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.csproj.AssemblyReference.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.GeneratedMSBuildEditorConfig.editorconfig
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.AssemblyInfoInputs.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.AssemblyInfo.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.csproj.CoreCompileInputs.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.MvcApplicationPartsAssemblyInfo.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.RazorAssemblyInfo.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.RazorAssemblyInfo.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/staticwebassets/MagicEightBall.StaticWebAssets.Manifest.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/staticwebassets/MagicEightBall.StaticWebAssets.xml
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/scopedcss/bundle/MagicEightBall.styles.css
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.TagHelpers.input.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.TagHelpers.output.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.RazorCoreGenerate.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/MagicEightBall/Index.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/MagicEightBall/ShakeBall.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.RazorTargetAssemblyInfo.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.RazorTargetAssemblyInfo.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.Views.pdb
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.dll
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/ref/MagicEightBall.dll
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.pdb
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.genruntimeconfig.cache
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/MagicEightBall.csproj.CopyComplete
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Hangman/Index.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Hangman/Hangman.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Hangman/HangmanInitialize.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Hangman/LoseView.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Hangman/WinView.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Shared/_HangmanStart.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Shared/_HangmanBody.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Shared/_HangmanBothArms.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Shared/_HangmanBothLegs.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Shared/_HangmanHead.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Shared/_HangmanOneArm.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/Shared/_HangmanOneLeg.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/NumGuesser/Index.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/NumGuesser/GuessNumber.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/NumGuesser/FirstGuess.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/NumGuesser/WinSummary.cshtml.g.cs
+/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/Debug/net5.0/Razor/Views/NumGuesser/CustomNumbers.cshtml.g.cs

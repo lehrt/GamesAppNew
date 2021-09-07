@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/MagicEightBall.csproj": {}
+  },
+  "projects": {
+    "/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/MagicEightBall.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/MagicEightBall.csproj",
+        "projectName": "MagicEightBall",
+        "projectPath": "/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/MagicEightBall.csproj",
+        "packagesPath": "/Users/theresalehr/.nuget/packages/",
+        "outputPath": "/Users/theresalehr/Desktop/Visual Studio/unit_2/chapter-9 & 10/Random practice/Challenges/MagicEightBall/MagicEightBall/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/theresalehr/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
